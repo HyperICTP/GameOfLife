@@ -9,7 +9,7 @@ namespace GameOfLife
     {
         static void Main(string[] args)
         {
-            Console.WriteLine( "Time to get this on OpenShift :D!" );
+            Console.WriteLine( "It is Time to get this on OpenShift :D! WOOO" );
             Console.ReadLine();
         }
     }
