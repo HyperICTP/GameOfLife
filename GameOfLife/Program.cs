@@ -9,7 +9,7 @@ namespace GameOfLife
     {
         static void Main(string[] args)
         {
-            Console.WriteLine( "O_O <- Surpised Face lol" );
+            Console.WriteLine( "Hello HyperScalers!" );
             Console.ReadLine();
         }
     }
